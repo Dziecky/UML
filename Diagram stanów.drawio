@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-15T10:12:04.330Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0" etag="qT_ne5Ag5JkUYfA6Pdxu" version="24.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-15T10:12:17.923Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0" etag="5rNrwOzm_SfW-uKsFEpg" version="24.2.0" type="github">
   <diagram name="Strona-1" id="8CRNDZE9Izpj1-qc91zi">
     <mxGraphModel dx="480" dy="531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -26,7 +26,7 @@
         <mxCell id="taRefr_oqiKTdeL5wk_o-6" value="pobyt na Marsie" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="95" y="470" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="taRefr_oqiKTdeL5wk_o-8" value="p" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="taRefr_oqiKTdeL5wk_o-8" value="powrót na Ziemię" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="470" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
