@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-15T10:12:57.477Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0" etag="M0fr_2zTp3P0qnLAUR04" version="24.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-15T10:34:20.913Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0" etag="2KFTYuxL_UlZzl03c2ll" version="24.2.0" type="github">
   <diagram name="Strona-1" id="8CRNDZE9Izpj1-qc91zi">
-    <mxGraphModel dx="480" dy="531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1525" dy="393" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -23,6 +23,19 @@
         <mxCell id="taRefr_oqiKTdeL5wk_o-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="taRefr_oqiKTdeL5wk_o-6" target="taRefr_oqiKTdeL5wk_o-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="taRefr_oqiKTdeL5wk_o-13" value="after(3 miesiące)/przedłużenie()" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="taRefr_oqiKTdeL5wk_o-12">
+          <mxGeometry x="0.0044" y="-84" relative="1" as="geometry">
+            <mxPoint x="155" y="530" as="sourcePoint" />
+            <mxPoint x="155" y="600" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint x="84" y="84" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="taRefr_oqiKTdeL5wk_o-17" value="wystąpienie o status uchodźcy&lt;div&gt;[udowodnienie prześladowania przez&amp;nbsp;&lt;/div&gt;&lt;div&gt;osobników swojego gatunku]/zmiana_statusu(uchodźca)&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="taRefr_oqiKTdeL5wk_o-6" target="taRefr_oqiKTdeL5wk_o-16">
+          <mxGeometry x="0.0175" y="-30" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="taRefr_oqiKTdeL5wk_o-6" value="pobyt na Marsie" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="95" y="470" width="120" height="60" as="geometry" />
         </mxCell>
@@ -30,10 +43,77 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="taRefr_oqiKTdeL5wk_o-8" value="powrót na Ziemię" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="470" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="470" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="taRefr_oqiKTdeL5wk_o-10" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="470" y="485" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="taRefr_oqiKTdeL5wk_o-15" value="after(3 miesiące)/&lt;div&gt;zmiana_stanu(imigrant)&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="taRefr_oqiKTdeL5wk_o-12" target="taRefr_oqiKTdeL5wk_o-14">
+          <mxGeometry x="-0.1429" y="65" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="taRefr_oqiKTdeL5wk_o-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="taRefr_oqiKTdeL5wk_o-12" target="taRefr_oqiKTdeL5wk_o-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="50" y="660" />
+              <mxPoint x="50" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="taRefr_oqiKTdeL5wk_o-12" value="przedłużenie wizy turystycznej" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="95" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="taRefr_oqiKTdeL5wk_o-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="taRefr_oqiKTdeL5wk_o-14" target="taRefr_oqiKTdeL5wk_o-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="50" y="790" />
+              <mxPoint x="50" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="taRefr_oqiKTdeL5wk_o-14" value="uznanie Ziemianina za nielegalnego imigranta" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="95" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="taRefr_oqiKTdeL5wk_o-19" value="after(5 lat) [brak konfliktu z prawem]/&lt;div&gt;dodanie_obywatelstwa()&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="taRefr_oqiKTdeL5wk_o-16" target="taRefr_oqiKTdeL5wk_o-18">
+          <mxGeometry x="-1" y="71" relative="1" as="geometry">
+            <mxPoint x="10" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="taRefr_oqiKTdeL5wk_o-20" value="when(ślub z rodowitym ufokiem)/&lt;div&gt;dodanie_obywatelstwa()&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="taRefr_oqiKTdeL5wk_o-16" target="taRefr_oqiKTdeL5wk_o-18">
+          <mxGeometry x="0.5714" y="-90" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="taRefr_oqiKTdeL5wk_o-16" value="stały pobyt na Marsie" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="taRefr_oqiKTdeL5wk_o-22" value="when(zrzeczenie się&amp;nbsp;&lt;div&gt;ziemskiego obywatelstwa)/&lt;/div&gt;&lt;div&gt;usunięcie_obywatelstwa()&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="taRefr_oqiKTdeL5wk_o-18" target="taRefr_oqiKTdeL5wk_o-21">
+          <mxGeometry x="0.4118" y="-80" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="taRefr_oqiKTdeL5wk_o-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="taRefr_oqiKTdeL5wk_o-18" target="taRefr_oqiKTdeL5wk_o-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-430" y="990" />
+              <mxPoint x="340" y="990" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="taRefr_oqiKTdeL5wk_o-18" value="pobyt jako obywatel" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-490" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="taRefr_oqiKTdeL5wk_o-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.497;entryY=-0.047;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="taRefr_oqiKTdeL5wk_o-21" target="taRefr_oqiKTdeL5wk_o-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-569" y="890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="taRefr_oqiKTdeL5wk_o-21" value="pobyt jako obywatel bez możliwości powrotu na Ziemię" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-630" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="taRefr_oqiKTdeL5wk_o-26" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="-584.0000000000002" y="890" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
