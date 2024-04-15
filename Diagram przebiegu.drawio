@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-15T21:55:04.533Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0" etag="_Q3dtbnzaS9nZfwP8M0A" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-15T22:06:13.761Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0" etag="zEw0OtZ3s9ujbIoaC4qk" version="24.2.5" type="github">
   <diagram name="Strona-1" id="8ww9L-g64IQBj1eRSzWD">
-    <mxGraphModel dx="605" dy="607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1021" dy="1851" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -68,7 +68,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YFiqXwNewB6xpeX7jggf-88" value="Recepcjonista wybiera odpowiedni wpis(nr_wpisu) i dokonuje rezerwacji" style="shape=note;size=20;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="900" y="696" width="160" height="70" as="geometry" />
+          <mxGeometry x="900" y="720" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="YFiqXwNewB6xpeX7jggf-92" value="11: DokonajRezerwacje(nr_wpisu)" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=bottom;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;endArrow=block;endFill=1;endSize=10;" edge="1" parent="1" target="YFiqXwNewB6xpeX7jggf-87">
           <mxGeometry relative="1" as="geometry">
@@ -107,12 +107,13 @@
         <mxCell id="YFiqXwNewB6xpeX7jggf-71" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="YFiqXwNewB6xpeX7jggf-99">
           <mxGeometry x="45" y="456" width="10" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="YFiqXwNewB6xpeX7jggf-107" value="&amp;lt;&amp;lt;return&amp;gt;&amp;gt;&lt;div&gt;10: OknoWynikowe\WpisyWolnychPokoi&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;endArrow=open;endFill=0;endSize=10;exitX=0;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;" edge="1" parent="1" source="YFiqXwNewB6xpeX7jggf-18" target="YFiqXwNewB6xpeX7jggf-8">
+        <mxCell id="YFiqXwNewB6xpeX7jggf-107" value="&amp;lt;&amp;lt;return&amp;gt;&amp;gt;&lt;div&gt;10: OknoWynikowe\SpisWolnychPokoi&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;endArrow=open;endFill=0;endSize=10;exitX=0;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;" edge="1" parent="1" source="YFiqXwNewB6xpeX7jggf-18" target="YFiqXwNewB6xpeX7jggf-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="340" y="705" />
               <mxPoint x="340" y="705" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YFiqXwNewB6xpeX7jggf-100" value=": OknoWynikowe" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
@@ -141,7 +142,7 @@
           <mxGeometry x="435" y="450" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YFiqXwNewB6xpeX7jggf-106" value="[UML 2.0]" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="40" y="30" width="60" height="30" as="geometry" />
+          <mxGeometry x="50" y="-30" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
