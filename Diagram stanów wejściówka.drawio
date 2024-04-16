@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-16T13:07:19.148Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0" etag="sZIWSddJJNUJ2DWrY4jX" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-16T13:08:25.721Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0" etag="f774xAqvJpJsjwGH6Dhi" version="24.2.5" type="github">
   <diagram name="Strona-1" id="BxVM9EEZGzVjw5J-JY-A">
     <mxGraphModel dx="1521" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -42,14 +42,23 @@
             <mxPoint x="350" y="660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="dsa9-XPuG5602Wf-8mjY-16" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;after(2 tygodnie)&lt;/span&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;status[nieopłacona]/usunięcie()&lt;/div&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=bottom;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;endArrow=classic;" edge="1" parent="1" source="dsa9-XPuG5602Wf-8mjY-11" target="dsa9-XPuG5602Wf-8mjY-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dsa9-XPuG5602Wf-8mjY-11" value="Prośba wysłana" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="70" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dsa9-XPuG5602Wf-8mjY-13" value="Sprawdzono" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="dsa9-XPuG5602Wf-8mjY-13" value="Przygotowana do wysyłki" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="70" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dsa9-XPuG5602Wf-8mjY-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=bottom;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;endArrow=classic;" edge="1" parent="1" source="dsa9-XPuG5602Wf-8mjY-15" target="dsa9-XPuG5602Wf-8mjY-17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dsa9-XPuG5602Wf-8mjY-15" value="Usunięte zamówienie" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="380" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dsa9-XPuG5602Wf-8mjY-17" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="585" y="175" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
