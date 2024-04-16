@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-16T11:48:52.029Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0" etag="ajKn_dyHk39UQMdw6UDi" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-16T11:51:25.151Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0" etag="pHIJuPP3bM6RCkGHyxkN" version="24.2.5" type="github">
   <diagram name="Strona-1" id="8ww9L-g64IQBj1eRSzWD">
-    <mxGraphModel dx="1521" dy="1657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2173" dy="2013" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -79,7 +79,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YFiqXwNewB6xpeX7jggf-95" value="&amp;lt;&amp;lt;destroy&amp;gt;&amp;gt;&lt;div&gt;12: Zamknij()&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;endArrow=block;endFill=1;endSize=10;" parent="1" target="YFiqXwNewB6xpeX7jggf-93" edge="1">
+        <mxCell id="YFiqXwNewB6xpeX7jggf-95" value="&amp;lt;&amp;lt;destroy&amp;gt;&amp;gt;&lt;div&gt;13: Zamknij()&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;endArrow=block;endFill=1;endSize=10;" parent="1" target="YFiqXwNewB6xpeX7jggf-93" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="200" y="960.0769230769229" as="sourcePoint" />
             <mxPoint x="865" y="959" as="targetPoint" />
@@ -122,11 +122,6 @@
         <mxCell id="YFiqXwNewB6xpeX7jggf-80" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" parent="YFiqXwNewB6xpeX7jggf-100" vertex="1">
           <mxGeometry x="45" y="450" width="10" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="uE2uMthaSzWmi_VO4Wzg-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="YFiqXwNewB6xpeX7jggf-100" source="YFiqXwNewB6xpeX7jggf-87">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="300" y="749" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="YFiqXwNewB6xpeX7jggf-87" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" parent="YFiqXwNewB6xpeX7jggf-100" vertex="1">
           <mxGeometry x="45" y="724" width="10" height="50" as="geometry" />
         </mxCell>
@@ -148,6 +143,19 @@
         </mxCell>
         <mxCell id="YFiqXwNewB6xpeX7jggf-106" value="[UML 2.0]" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="50" y="-30" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uE2uMthaSzWmi_VO4Wzg-1" value="&amp;lt;&amp;lt;create&amp;gt;&amp;gt;&lt;div&gt;12: Rezerwacja()&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;dashed=1;dashPattern=12 12;endArrow=open;endFill=0;endSize=10;labelBackgroundColor=none;" edge="1" parent="1" source="YFiqXwNewB6xpeX7jggf-87" target="uE2uMthaSzWmi_VO4Wzg-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1119.5" y="875" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uE2uMthaSzWmi_VO4Wzg-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;" edge="1" parent="1" source="uE2uMthaSzWmi_VO4Wzg-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1055" y="1040" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uE2uMthaSzWmi_VO4Wzg-3" value=": Rezerwacja" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="850" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
