@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-16T12:39:41.342Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0" etag="Yxaq1o6KhOEZOiGm4aOZ" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-16T12:45:14.362Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0" etag="xDynap5N--0T1rYSyOcE" version="24.2.5" type="github">
   <diagram name="Strona-1" id="XkYLfurVMoklSscanKzM">
     <mxGraphModel dx="1521" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -75,7 +75,7 @@
         <mxCell id="dYZR1nuj510XMWiARisk-34" value="+ Nazwa" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="dYZR1nuj510XMWiARisk-33">
           <mxGeometry y="26" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="dYZR1nuj510XMWiARisk-40" value="obsługiwany przez" style="endArrow=open;html=1;edgeStyle=orthogonalEdgeStyle;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;endSize=15;startArrow=none;startFill=0;endFill=0;" edge="1" parent="1" source="dYZR1nuj510XMWiARisk-29" target="dYZR1nuj510XMWiARisk-10">
+        <mxCell id="dYZR1nuj510XMWiARisk-40" value="" style="endArrow=diamondThin;html=1;edgeStyle=orthogonalEdgeStyle;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;endSize=15;startArrow=none;startFill=0;endFill=1;" edge="1" parent="1" source="dYZR1nuj510XMWiARisk-29" target="dYZR1nuj510XMWiARisk-10">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="430" y="450" as="sourcePoint" />
             <mxPoint x="590" y="450" as="targetPoint" />
@@ -86,11 +86,6 @@
         </mxCell>
         <mxCell id="dYZR1nuj510XMWiARisk-41" value="2..*" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" connectable="0" vertex="1" parent="dYZR1nuj510XMWiARisk-40">
           <mxGeometry x="-1" relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="dYZR1nuj510XMWiARisk-42" value="1..*" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" connectable="0" vertex="1" parent="dYZR1nuj510XMWiARisk-40">
-          <mxGeometry x="1" relative="1" as="geometry">
-            <mxPoint y="22" as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="dYZR1nuj510XMWiARisk-43" value="Zgłoszenie" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="800" y="387" width="140" height="104" as="geometry" />
