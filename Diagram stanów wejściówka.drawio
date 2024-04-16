@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-16T13:20:14.740Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0" etag="p7eqZhRzYZLkZsl70_-L" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-16T16:12:59.888Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0" etag="G5OZ2YEuZ38P-uB20xe6" version="24.2.5" type="github">
   <diagram name="Strona-1" id="BxVM9EEZGzVjw5J-JY-A">
-    <mxGraphModel dx="1521" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1784" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,7 +17,7 @@
             <mxPoint x="130" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dsa9-XPuG5602Wf-8mjY-3" value="Przyjmowanie zamówienia od internauty" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dsa9-XPuG5602Wf-8mjY-3" value="Przyjęte zamówienie" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dsa9-XPuG5602Wf-8mjY-14" value="after(1 tydzień)&amp;nbsp;&lt;div&gt;potwierdzenie[brak]/usunięcie()&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=bottom;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;endArrow=classic;" edge="1" parent="1" source="dsa9-XPuG5602Wf-8mjY-3" target="dsa9-XPuG5602Wf-8mjY-15">
@@ -54,7 +54,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dsa9-XPuG5602Wf-8mjY-13" value="Przygotowana do wysyłki" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="70" y="580" width="120" height="60" as="geometry" />
+          <mxGeometry x="70" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dsa9-XPuG5602Wf-8mjY-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=bottom;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;endArrow=classic;" edge="1" parent="1" source="dsa9-XPuG5602Wf-8mjY-15" target="dsa9-XPuG5602Wf-8mjY-17">
           <mxGeometry relative="1" as="geometry" />
@@ -65,7 +65,7 @@
         <mxCell id="dsa9-XPuG5602Wf-8mjY-17" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="585" y="175" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dsa9-XPuG5602Wf-8mjY-21" value="after(miesiąc) reklamacja[złożona]/rozpatrzenie()" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=bottom;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;endArrow=classic;" edge="1" parent="1" source="dsa9-XPuG5602Wf-8mjY-20" target="dsa9-XPuG5602Wf-8mjY-28">
+        <mxCell id="dsa9-XPuG5602Wf-8mjY-21" value="when(&amp;lt;=miesiąc od wysłania)&lt;div&gt;reklamacja[złożona]/rozpatrzenie()&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=bottom;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;endArrow=classic;" edge="1" parent="1" source="dsa9-XPuG5602Wf-8mjY-20" target="dsa9-XPuG5602Wf-8mjY-28">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="760" y="710" as="targetPoint" />
           </mxGeometry>
@@ -98,8 +98,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="840" y="850" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="830" y="750" />
-              <mxPoint x="130" y="750" />
+              <mxPoint x="830" y="680" />
+              <mxPoint x="130" y="680" />
             </Array>
           </mxGeometry>
         </mxCell>
