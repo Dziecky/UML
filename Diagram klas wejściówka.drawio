@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-11T12:45:09.995Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" etag="y3cTKuUkpajD-ceYnsfz" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-11T12:55:14.798Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" etag="kWFadASZEm6Y3_iv_QGC" version="24.5.2" type="github">
   <diagram name="Strona-1" id="XkYLfurVMoklSscanKzM">
     <mxGraphModel dx="1249" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -172,6 +172,15 @@
         <mxCell id="dYZR1nuj510XMWiARisk-72" value="1..*" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;endArrow=diamondThin;endFill=1;endSize=15;" parent="1" source="dYZR1nuj510XMWiARisk-68" target="dYZR1nuj510XMWiARisk-43" edge="1">
           <mxGeometry x="-0.6364" y="-9" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mQJhJrm4RbW1LA42JmeF-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dYZR1nuj510XMWiARisk-68" target="dYZR1nuj510XMWiARisk-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1120" y="740" />
+              <mxPoint x="110" y="740" />
+              <mxPoint x="110" y="386" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="dYZR1nuj510XMWiARisk-68" value="Usługa" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" parent="1" vertex="1">
